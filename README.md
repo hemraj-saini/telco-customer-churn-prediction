@@ -4,7 +4,7 @@
 Customer churn is a major challenge for telecom companies. This project uses Machine Learning to predict whether a customer is likely to leave the company based on demographic information, account details, and service usage patterns.
 
 ## Live Demo
-[Streamlit App](YOUR_STREAMLIT_LINK)
+[Streamlit App](https://telco-customer-churn-prediction-2nd.streamlit.app/)
 
 ## Problem Statement
 The goal is to build a classification model that identifies customers at risk of churning, helping businesses improve customer retention and reduce revenue loss.
